@@ -3,14 +3,12 @@
 /*© American Software Testing Qualifications Board*/
 
 /*
- * Title: ISS Flashcards Rough Data
+ * Title: ISTQB Flashcards program
  * Author: Marc Funston
- * Purpose: ISS Flashcards Index page.
+ * Purpose: ISTQB 1 Practice Test Study programe.
  * Bugs: None known at this time
- * Edit: 4/17/2021 -- Converted entire Bolgowiz project to ISS Flashcards project
- * Edit: 4/18/2021 -- Rough import of data from ASTQB for sample tests 1 and 2
- *
- * To Do -- go through each and every question and and compare to downloaded pdfs
+ * Edit: 5/11/2021 -- Updated data abd cleaned up description
+ * 
  */
 
 DROP DATABASE IF EXISTS istqb1;
